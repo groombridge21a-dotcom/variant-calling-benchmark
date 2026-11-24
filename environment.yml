@@ -1,0 +1,12 @@
+name: smk2
+channels:
+  - defaults
+dependencies:
+  - python=3.12
+  - snakemake
+  - bcftools
+  - bwa
+  - wgsim
+  - htslib
+  - samtools
+prefix: /home/userbio/miniconda3/envs/smk2
